@@ -1,0 +1,61 @@
+﻿Build started 23/12/2021 11:32:33 AM.
+     1>Project "G:\Research\AVTP_DGG_final\AVTP_DGG_final\AVTP_DGG_final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact_elements.h(56): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact_elements.h(62): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(105): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(138): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(139): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(255): warning C4804: '<=' : unsafe use of type 'bool' in operation
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(595): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(597): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(685): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(642): warning C4101: 'tovertex' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(796): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(842): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(888): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(934): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1221): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1228): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1237): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1260): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1263): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1314): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1267): warning C4101: 'cosine_half_winopening' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1267): warning C4101: 'sine_half_winopening' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1266): warning C4101: 'beta_near' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1269): warning C4101: 'intersect_left' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1267): warning C4101: 'triangle_altitude' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1269): warning C4101: 'intersect_right' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1266): warning C4101: 'beta_far' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1351): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_algorithm_exact.h(1478): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_constants_and_simple_functions.h(78): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+                 main.cpp(66) : see reference to function template instantiation 'bool geodesic::read_mesh_from_file<std::vector<double,std::allocator<_Ty>>,std::vector<unsigned int,std::allocator<char32_t>>>(char *,Points &,Faces &,std::vector<int,std::allocator<int>> &,int &)' being compiled
+                 with
+                 [
+                     _Ty=double
+         ,            Points=std::vector<double,std::allocator<double>>
+         ,            Faces=std::vector<unsigned int,std::allocator<char32_t>>
+                 ]
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_constants_and_simple_functions.h(63): warning C4101: 'type' : unreferenced local variable
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_mesh.h(54): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+                 main.cpp(77) : see reference to function template instantiation 'void geodesic::Mesh::initialize_mesh_data<std::vector<double,std::allocator<_Ty>>,std::vector<unsigned int,std::allocator<char32_t>>>(Points &,Faces &)' being compiled
+                 with
+                 [
+                     _Ty=double
+         ,            Points=std::vector<double,std::allocator<double>>
+         ,            Faces=std::vector<unsigned int,std::allocator<char32_t>>
+                 ]
+     1>g:\research\avtp_dgg_final\avtp_dgg_final\geodesic_mesh.h(56): warning C4267: 'initializing' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Research\AVTP_DGG_final\x64\Debug\AVTP_DGG_final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Research\AVTP_DGG_final\x64\Debug\AVTP_DGG_final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Research\AVTP_DGG_final\x64\Debug\AVTP_DGG_final.lib" /MACHINE:X64 x64\Debug\main.obj
+         AVTP_DGG_final.vcxproj -> G:\Research\AVTP_DGG_final\x64\Debug\AVTP_DGG_final.exe
+     1>Done Building Project "G:\Research\AVTP_DGG_final\AVTP_DGG_final\AVTP_DGG_final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90
